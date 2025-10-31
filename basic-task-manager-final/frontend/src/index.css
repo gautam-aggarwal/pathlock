@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-b from-purple-900 via-purple-800 to-purple-900 text-gray-100 min-h-screen;
+}
+
+button {
+  @apply bg-purple-600 hover:bg-purple-700 text-white rounded px-4 py-2 transition;
+}
+

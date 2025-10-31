@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { @apply bg-gray-50; }
+:root {
+  --main-color: #2563eb; /* Tailwind's blue-600 */
+}
+
+button {
+  background-color: var(--main-color);
+  color: white;
+}
+
+button:hover {
+  background-color: #1d4ed8; /* blue-700 */
+}
