@@ -34,7 +34,6 @@ A simple **Task Manager** web app that lets users create, view, and delete tasks
 ### ▶️ How to Run
 
 #### Backend
-```bash
 cd assignment1-task-manager/backend
 dotnet run
 #### Frontend
@@ -42,11 +41,11 @@ cd assignment1-task-manager/frontend
 npm install
 npm start
 
-🚀 Assignment 2 — Project Manager (💙 Dark Theme + JWT)
+## 🚀 Assignment 2 — Project Manager (💙 Dark Theme + JWT)
 
 A secure Project Management System with authentication, project and task tracking, and a dark mode interface.
 
-⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 Frontend: React (TypeScript), Tailwind CSS (Dark Mode + Blue Accents)
 
@@ -54,7 +53,7 @@ Backend: ASP.NET Core Web API + JWT Authentication
 
 Database: In-Memory
 
-▶️ How to Run
+### ▶️ How to Run
 Backend
 cd assignment2-project-manager/backend
 dotnet run
