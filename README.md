@@ -8,10 +8,12 @@ Both are built using **ASP.NET Core Web API** for the backend and **React + Tail
 ## 📁 Repository Structure
 pathlock/
 │
+
 ├─ assignment1-task-manager/ # Purple-themed Task Manager
 │ ├─ backend/ # ASP.NET Core Web API
 │ └─ frontend/ # React + Tailwind frontend
 │
+
 ├─ assignment2-project-manager/ # Dark-themed Project Manager
 │ ├─ backend/ # ASP.NET Core Web API + JWT
 │ └─ frontend/ # React + Tailwind frontend
